@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "4861b2c3764c1196",
+    "type": "split",
+    "children": [
+      {
+        "id": "89bee9a9d5b83cbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58199aab0a733e79",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0e2bbcfc86eab3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "983749d42192d5b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0038dd8d6334a763",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4f95006ba1f4c040",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "569a84f637d9adb1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "698f12a82c8232db",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bac1af532f49927",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aeb79f42882c6e2e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5836c1734539d0bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 - Source Materials/Chapter 6 zyBooks ITSC 2175 - Logic and Algorithms.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chapter 6 zyBooks ITSC 2175 - Logic and Algorithms"
+            }
+          },
+          {
+            "id": "c52aedcff30b73ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "911c65cb549ca887",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 - Source Materials/Chapter 6 zyBooks ITSC 2175 - Logic and Algorithms.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chapter 6 zyBooks ITSC 2175 - Logic and Algorithms"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "58199aab0a733e79",
+  "lastOpenFiles": [
+    "2 - Notes/Lecture Notes & Study Notes/Linear Algebra Test 2 TI-84 Calculator Guide - MATH 2164.md",
+    "2 - Notes/Lecture Notes & Study Notes/Linear Algebra Test 2 Guide - MATH 2164.md",
+    "2 - Notes/Other/Google Gemini AI API Documentation Notes.md",
+    "6 - Imports/PDF/Linear Algebra Test 2 TI-84 Calculator Guide - MATH 2164/Linear Algebra Test 2 TI-84 Calculator Guide - MATH 2164.pdf",
+    "2 - Notes/Teacher Notes & Lectures/Linear Algebra Test 2 Guide - MATH 2164.md",
+    "Lecture7.pdf",
+    "Practice Test 2 - MATH 2164.md",
+    "2 - Notes/Teacher Notes & Lectures",
+    "Practice Test 2 - MATH 2164.pdf",
+    "Linear Algebra Test 2 Guide - MATH 2164.pdf",
+    "2 - Notes/Lecture Notes & Study Notes/Test 2 Study Guide - ITSC 2175.md",
+    "Practice Test 2 - MATH 2164_tmp.html",
+    "2 - Notes/Lecture Notes & Study Notes/Linear Algebra Test 2 Guide - MATH 2164.pdf",
+    "Problem12_SubspaceDimension_Walkthrough_PlainText.md",
+    "Problem7_PolynomialSpan_Walkthrough_PlainText.md",
+    "Problem15_ChangeOfBasis_Walkthrough_PlainText.md",
+    "Problem14_RankNullity_Walkthrough_PlainText.md",
+    "Problem13_CoordinateVector_Walkthrough_PlainText.md",
+    "Problem11_SpanAndDimension_Walkthrough_PlainText.md",
+    "Problem10_SubspaceProperties_Walkthrough_PlainText.md",
+    "Problem9_LinearDependence_Walkthrough_PlainText.md",
+    "Problem8_CramersRule_Walkthrough_PlainText.md",
+    "Problem5_LinearIndependence_Walkthrough_PlainText.md",
+    "Problem6_VectorCombination_Walkthrough_PlainText.md",
+    "Problem4_CofactorMatrix_Walkthrough_PlainText.md",
+    "Problem3_InvertibleMatrices_Walkthrough_PlainText.md",
+    "Problem2_RowOperations_Walkthrough_PlainText.md",
+    "Problem1_Determinants_Walkthrough.md",
+    "2 - Notes/Lecture Notes & Study Notes/Linear Algebra Test 2 Guide - MATH 2164_tmp.html",
+    "MATH2164_Last_Minute_Concept_Summary.md",
+    "6 - Imports/Images/Linear Algebra Test 2 Guide - MATH 2164/Screenshot 2025-03-27 at 4.31.49 AM.png",
+    "Linear_Algebra_Formula_Sheet.md",
+    "6 - Imports/PDF/Linear Algebra Test 2 TI-84 Calculator Guide - MATH 2164",
+    "2 - Notes/Lecture Notes & Study Notes/Linear Algebra Test 2 TI-84 Calculator Guide - MATH 2164_tmp.html",
+    "2 - Notes/Lecture Notes & Study Notes/Lecture 6 Hypotheses Testing (II) - STAT 2122.md",
+    "6 - Imports/Images/Linear Algebra Test 2 Guide - MATH 2164/Screenshot 2025-03-27 at 5.38.38 AM.png",
+    "Screenshot 2025-03-27 at 5.38.38 AM.png",
+    "6 - Imports/Images/Linear Algebra Test 2 Guide - MATH 2164/Screenshot 2025-03-27 at 3.58.38 AM.png",
+    "6 - Imports/Images/Test 2 Study Guide - ITSC 2175/IMG_6BCF37682614-1.jpeg",
+    "6 - Imports/Images/Linear Algebra Test 2 Guide - MATH 2164/Screenshot 2025-03-27 at 5.01.03 AM.png",
+    "6 - Imports/Images/Linear Algebra Test 2 Guide - MATH 2164/Screenshot 2025-03-27 at 4.31.34 AM.png",
+    "6 - Imports/Images/Linear Algebra Test 2 Guide - MATH 2164/Screenshot 2025-03-27 at 4.23.04 AM.png",
+    "6 - Imports/Images/Linear Algebra Test 2 Guide - MATH 2164/Screenshot 2025-03-27 at 4.18.36 AM.png",
+    "6 - Imports/Images/5.5 Rank and Nullity - MATH 2164/Screenshot 2025-03-26 at 7.41.06 PM.png"
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "f04e562aa99ff789",
+    "type": "split",
+    "children": [
+      {
+        "id": "8928a85f998f0a67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10dcd3bc262348c9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf341b586c881f81",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b749779a762df989",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "d13d8f2e61fe25d2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "7a5bc9f5b1c3b6cf",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "938f2f4e9a6239ac",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "dd767c9f21bdbb3d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1dd770ca1ffa37ad",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "2 - Notes/Homework/Assignment 6 - ITSC 2175.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "99bb4108c2cbd529",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "743f2284367753fe",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "10dcd3bc262348c9",
+  "lastOpenFiles": [
+    "2 - Notes/Homework/Assignment 6 - ITSC 2175.md",
+    "Google Gemini AI API Documentation Notes.md",
+    "2 - Notes/Videos/Intro to Neural Networks Trading.md",
+    "2 - Notes/Teacher Notes & Lectures/Test 2 Study Guide - ITSC 2175.md",
+    "2 - Notes/Teacher Notes & Lectures/Lecture 6 Hypotheses Testing (II) - STAT 2122.md",
+    "7 - Imports/PDF/Assignment 6 - ITSC 2175/ProblemSolving7.pdf",
+    "3 - Tags/Proof Techniques.md",
+    "3 - Tags/Graph Theory.md",
+    "3 - Tags/Function & Relations.md",
+    "3 - Tags/Number Theory.md",
+    "3 - Tags/Discrete Math.md",
+    "7 - Imports/Images/Assignment 6 - ITSC 2175/Screenshot 2025-03-21 at 4.21.04 AM.png",
+    "7 - Imports/Images/Assignment 6 - ITSC 2175/IMG_DFD2EED53281-1 2.jpeg",
+    "7 - Imports/PDF/Assignment 6 - ITSC 2175/SolvingProblem6.pdf",
+    "7 - Imports/PDF/Assignment 6 - ITSC 2175/ProofbyCasesForProb3.pdf",
+    "7 - Imports/PDF/Assignment 6 - ITSC 2175",
+    "7 - Imports/Images/Assignment 6 - ITSC 2175/Screenshot 2025-03-19 at 11.41.13 PM.png",
+    "7 - Imports/Images/Assignment 6 - ITSC 2175/IMG_DF278B66996D-1.jpeg",
+    "7 - Imports/Images/Assignment 6 - ITSC 2175/Screenshot 2025-03-20 at 12.31.32 AM.png",
+    "7 - Imports/Images/Assignment 6 - ITSC 2175/Screenshot 2025-03-20 at 6.28.42 PM.png",
+    "7 - Imports/Images/Assignment 6 - ITSC 2175/IMG_6F0C87F005A2-1.jpeg",
+    "7 - Imports/Images/Assignment 6 - ITSC 2175/Screenshot 2025-03-20 at 6.26.26 PM.png",
+    "7 - Imports/Images/Assignment 6 - ITSC 2175/Screenshot 2025-03-19 at 10.47.15 PM.png",
+    "7 - Imports/Images/Assignment 6 - ITSC 2175/Screenshot 2025-03-20 at 5.23.17 PM.png",
+    "7 - Imports/Images/Assignment 6 - ITSC 2175",
+    "2 - Notes/Homework",
+    "7 - Imports/PDF/Lecture 6 Hypotheses Testing (II) - STAT 2122/Lecture6.pdf",
+    "Lecture7.pdf",
+    "Chapter 6 zyBooks ITSC 2175 - Logic and Algorithms.md",
+    "Excalidraw/Drawing 2025-03-10 22.19.11.excalidraw.md",
+    "Excalidraw",
+    "6 - Main Notes/Untitled.md",
+    "Untitled.canvas",
+    "6 - Main Notes/2025-02-27.md",
+    "5 - Templates/Main Note.md"
+  ]
+}
