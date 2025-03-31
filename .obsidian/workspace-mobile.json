@@ -11,10 +11,14 @@
             "id": "10dcd3bc262348c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2 - Notes/Lecture Notes & Study Notes/5.5 Rank and Nullity - MATH 2164.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "5.5 Rank and Nullity - MATH 2164"
             }
           }
         ]
