@@ -10,7 +10,7 @@ I wanted a simple, flexible way to track what I’m thinking and learning. Writi
 
 ## How it’s organized
 
-The notes are written in Markdown and managed with Obsidian. They’re loosely structured and mostly follow a Zettelkasten approach — atomic notes, connections between ideas, and low effort maintenance. Some notes are raw, some are refined. That’s intentional.
+The notes are written in Markdown and managed with Obsidian. They’re loosely structured and mostly follow a loose Zettelkasten approach. Some notes are raw, some are refined. That’s intentional.
 
 ## If you're curious
 
