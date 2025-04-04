@@ -138,4 +138,89 @@ Tags: [[Discrete Math]], [[Function & Relations]], [[Number Theory]], [[Integer 
 			- In the sum $$5+8+11+14+17+20+23$$the initial term is $$a=5$$the common difference is $$d= 3$$and the number of terms in the sum $$n=7$$The theorem says that:$$5+8+11+14+17+20+23 = \sum_{j=0}^6 (5+3j) = 5\cdot7 + \frac{3\cdot 6 \cdot 7}{2} = 98$$
 	- In another example, there is a closed form expression for the sum of terms in an
 	  **Geometric sequence:**
-		- Closed form for the sum of terms in a geometric sequence:$$\text{For any real number } r \neq 1 \text{ and any integer } n\geq 1 \text{ :}
+		- Closed form for the sum of terms in a geometric sequence:$$\text{For any real number } r \neq 1 \text{ and any integer } n\geq 1 \text{ :} $$![[Screenshot 2025-04-03 at 8.18.41 PM.png]]![[Screenshot 2025-04-03 at 8.18.55 PM.png]]
+
+
+
+## Summary:
+
+
+**8.1 Sequences**
+
+- **Definition**: A sequence is a function whose domain is a set of consecutive integers.
+    - Notation: Use subscripts (e.g., aₖ instead of a(k)); aₖ is the _term_, and k is the _index_.
+    - Finite: Has a start and end index (e.g., aₘ to aₙ).
+    - Infinite: Starts at m and continues indefinitely.
+
+- **Explicit Formula**: Expresses aₖ in terms of k directly (e.g., dₖ = 2ᵏ for k ≥ 1).
+
+- **Monotonicity**:
+    - _Increasing_: aₖ < aₖ₊₁
+    - _Nondecreasing_: aₖ ≤ aₖ₊₁
+    - _Decreasing_: aₖ > aₖ₊₁
+    - _Nonincreasing_: aₖ ≥ aₖ₊₁
+
+- **Geometric Sequences**:
+    - Each term = previous term × constant ratio (r).
+    - Formula: aₖ = a × rᵏ
+    - Example: If a₀ = 1 and r = ½ → sequence: 1, ½, ¼, ⅛, ...
+
+- **Arithmetic Sequences**:
+    - Each term = previous term + constant difference (d).
+    - Formula: tₙ = t₀ + d × n
+    - Example: If a₀ = 3, d = –2 → sequence: 3, 1, –1, –3, ...
+
+- **Bank Interest Example**:
+    - $1,000 with 6% annual interest compounded monthly.
+    - Monthly growth factor = 1.005.
+    - Formula: aₙ = 1000 × (1.005)ⁿ
+
+
+**8.2 Recurrence Relations**
+
+- **Definition**: Defines each term based on one or more previous terms.
+  
+- **Arithmetic Sequence** (Recursive Form):
+    - a₀ = a (initial value)
+    - aₙ = d + aₙ₋₁ for n ≥ 1
+
+- **Geometric Sequence** (Recursive Form):
+    - a₀ = a
+    - aₙ = r × aₙ₋₁ for n ≥ 1
+
+- **Fibonacci Sequence**:
+    - f₀ = 0, f₁ = 1
+    - fₙ = fₙ₋₁ + fₙ₋₂ for n ≥ 2
+    - Each term is the sum of the two before it.
+    - Example of a **dynamical system** (state depends on past states).
+
+
+**8.3 Summations**
+
+- **Notation**: ∑ from i = s to t of aᵢ means summing values aₛ + aₛ₊₁ + ... + aₜ.
+    - _i_ is the index.
+    - _s_ is the lower limit.
+    - _t_ is the upper limit.
+    - E.g., ∑ (j = 1 to 4) of j³ = 1³ + 2³ + 3³ + 4³ = 100
+
+- **Parentheses Use**: ∑ (j=1 to n)(j+1) ≠ ∑ (j=1 to n) j + 1
+
+- **Breaking a Sum**:
+    - ∑ (k=m to n) aₖ = ∑ (k=m to n–1) aₖ + aₙ
+
+- **Change of Variables**:
+    - E.g., if i = k+2, then ∑ (k=1 to n) (k+2)³ becomes ∑ (i=3 to n+2) i³
+
+- **Closed Forms**:
+    - Avoids ∑ by giving a formula for the total sum.
+    - **Arithmetic Sequence**:
+        - ∑ (k=0 to n–1) (a + k×d) = a×n + d×(n–1)×n / 2
+        - Example: ∑ (j=0 to 6)(5 + 3j) = 98
+    - **Geometric Sequence** (r ≠ 1):
+        - ∑ (k=0 to n–1) a × rᵏ = a × (rⁿ – 1) / (r – 1)
+        - Example: 3 + 6 + 12 + 24 + 48 + 96 = ∑ (j=0 to 5) 3 × 2ʲ = 189
+
+
+
+
+
