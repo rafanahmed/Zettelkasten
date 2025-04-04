@@ -12,6 +12,10 @@ I wanted a simple, flexible way to track what I’m thinking and learning. Writi
 
 The notes are written in Markdown and managed with Obsidian. They’re loosely structured and mostly follow a Zettelkasten approach — atomic notes, connections between ideas, and low effort maintenance. Some notes are raw, some are refined. That’s intentional.
 
+**Plugins installed:**
+- Better Word Count
+- Latex Suite
+
 ## If you're curious
 
-This repo is public because I believe in learning in the open. You won’t find polished blog posts or tutorials here. Just thoughts
+This repo is public because I believe in learning in the open. You won’t find polished blog posts or tutorials here. Just my pure notes, learning and knowledge :)
