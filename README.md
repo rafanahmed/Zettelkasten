@@ -18,4 +18,4 @@ The notes are written in Markdown and managed with Obsidian. They’re loosely s
 
 ## If you're curious
 
-This repo is public because I believe in learning in t
+This repo is public because I believe in learning in the open. You won’t find polished blog posts or tutorials here. Just my pure notes, learning and knowledge :)
