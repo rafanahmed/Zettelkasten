@@ -4,7 +4,7 @@
 01:36 PM
 
 
-Tags:
+Tags: [[Discrete Math]], [[Proof Techniques]], [[Recursion]], [[Sequences]], [[Summation]], [[Mathematical Induction]]
 
 
 ## Reference:
