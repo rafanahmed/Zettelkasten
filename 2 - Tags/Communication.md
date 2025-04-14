@@ -1,0 +1,7 @@
+
+# Topics:
+
+## [[Conflict Resolution]]
+
+# Notes:
+- [[DAY 1 NOTES - The Next Conversation - Argue Less, Talk More]]
