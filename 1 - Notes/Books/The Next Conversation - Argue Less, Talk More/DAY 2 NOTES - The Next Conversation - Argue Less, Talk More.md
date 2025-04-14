@@ -8,6 +8,7 @@ Tags: [[Communication]], [[Conflict Resolution]], [[Emotional Intelligence]], [[
 
 
 ## Reference:
+*The Next Conversation - Argue Less, Talk More* - Jefferson Fisher 
 https://books.google.com/books/about/The_Next_Conversation.html?id=m1UgEQAAQBAJ&source=kp_book_description
 
 
